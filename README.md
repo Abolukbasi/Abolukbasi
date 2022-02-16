@@ -1,8 +1,10 @@
 <img align="center" src="https://github.com/Abolukbasi/Abolukbasi/blob/main/maxresdefault.jpg?raw=true"> 
   
+
+
 <!-- <h2 align="center"> Hi, I'm Abdurrahim Bolukbasi<h2>
 
-<p align="jstify"> I'm a Dr. Mechanical Engineer. Now, I'm retired...</p>
+
   
 <h3 align="center"> ... </h3>
   
@@ -13,7 +15,10 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Abdrrahim Bolukbasi</h1>
+
 <h3 align="center">A passionate DS from Turkey</h3>
+
+<p align="jstify"> I'm a Dr. Mechanical Engineer. Now, I'm retired...</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abolukbasi&label=Profile%20views&color=0e75b6&style=flat" alt="abolukbasi" /> </p>
 
