@@ -1,4 +1,4 @@
-<img src="https://github.com/Abolukbasi/Abolukbasi/blob/main/ahmet.jpg?raw=true"
+<img src="https://github.com/Abolukbasi/Abolukbasi/blob/main/maxresdefault.jpg?raw=true"
 
 ### Hello World
 
