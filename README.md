@@ -14,7 +14,7 @@
 </ul>
 -->
 
-<h1 align="center">Hi 👋, I'm Abdrrahim Bolukbasi</h1>
+<h1 align="center">Hi 👋, I'm Abdurrahim Bolukbasi</h1>
 
 <h3 align="center">A passionate DS from Turkey</h3>
 
