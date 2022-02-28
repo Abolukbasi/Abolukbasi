@@ -28,6 +28,9 @@
 
 - 🌱 I’m currently learning **DS curses**
 
+- https://github.com/techproeducationgit'  'I participated in the competition.''
+
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdurrahim-b%C3%B6l%C3%BCkba%C5%9F%C4%B1-6238391b7/?originalSubdomain=tr](https://www.linkedin.com/in/abdurrahim-b%C3%B6l%C3%BCkba%C5%9F%C4%B1-6238391b7/?originalSubdomain=tr)
 
 - 💬 Ask me about **ANSYS Fluent, Matlab, Python, Tableau, MySQL**
